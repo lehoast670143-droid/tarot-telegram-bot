@@ -3,7 +3,7 @@ import random
 import time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8281318545:AAG65MvnSY0DXqCYlVCguMFEyE3IiAUsV3c"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ذخیره زمان آخرین فال برای هر کاربر
